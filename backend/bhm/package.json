@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/tri-hoang/Basic-Hotel-Management/issues"
   },
-  "homepage": "https://github.com/tri-hoang/Basic-Hotel-Management#readme"
+  "homepage": "https://github.com/tri-hoang/Basic-Hotel-Management#readme",
+  "dependencies": {
+    "apollo-server": "^2.6.6",
+    "graphql": "^14.3.1"
+  }
 }
